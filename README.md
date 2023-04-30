@@ -1,2 +1,9 @@
 # otomatik-yaya-gecidi
-DeneYap Teknoloji Atölyesinde yapmış olduğumuz Otomatik Yaya Geçidi projesine ait kod. 
+
+30 Nisan 2023 tarihinde DeneYap Teknoloji Atölyesinde sunumunu yapmış olduğumuz Otomatik Yaya Geçidi projesine ait kod. 
+
+Proje ekibi:
+- Asya
+- Ceren
+- Rana
+- Şule 
